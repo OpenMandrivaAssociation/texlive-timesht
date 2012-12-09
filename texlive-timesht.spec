@@ -48,3 +48,17 @@ TeXLive timesht package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 20111104-2
++ Revision: 756916
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20111104-1
++ Revision: 719749
+- texlive-timesht
+- texlive-timesht
+- texlive-timesht
+- texlive-timesht
+
