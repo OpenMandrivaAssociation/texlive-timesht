@@ -9,7 +9,7 @@ Version:	20111104
 Release:	13
 Summary:	TeXLive timesht package
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/timesht.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/timesht.doc.tar.xz
